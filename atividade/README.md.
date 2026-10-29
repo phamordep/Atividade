@@ -1,0 +1,16 @@
+# Projeto: Filtragem de Notas de Alunos com Python
+
+Este repositório contém um script desenvolvido para a disciplina de programação.
+
+## 🛠️ Tecnologias Utilizadas
+* **Linguagem:** Python 3.x
+* **Conceitos Praticados:** Estruturas de dados (Dicionários e Listas), Funções e Loops.
+
+## 🚀 Como Executar o Script
+
+1. Certifique-se de ter o Python instalado em seu computador.
+2. Baixe ou clone este repositório.
+3. No terminal ou prompt de comando, execute o arquivo:
+   ```bash
+   python script.py
+   ```
